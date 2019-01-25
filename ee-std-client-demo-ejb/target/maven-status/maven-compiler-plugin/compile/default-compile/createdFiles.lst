@@ -1,0 +1,11 @@
+wipb\jee\clientdemo\ejb\PostDao.class
+wipb\jee\clientdemo\model\Post.class
+wipb\jee\clientdemo\ejb\AnswerDao.class
+wipb\jee\clientdemo\ejb\SendMail.class
+wipb\jee\clientdemo\ejb\ErrorDao.class
+wipb\jee\clientdemo\ejb\UserDao.class
+wipb\jee\clientdemo\model\Error.class
+wipb\jee\clientdemo\model\Mail.class
+wipb\jee\clientdemo\model\Customer.class
+wipb\jee\clientdemo\model\Answer.class
+wipb\jee\clientdemo\ejb\MailDao.class
